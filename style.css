@@ -213,17 +213,19 @@ li:hover{
   .third{
     display: flex;
     justify-content: space-between;
+    padding-block: 8rem;
   }
   h2{
     font-size: 1.8rem;
   }
   .third img{
-    width: 48%;
+    width: 45%;
     object-fit: contain;
+    transform: scale(1.2);
   }
   .third article{
     margin: 0;
-    width: 45%;
+    width: 42%;
   }
   .third h3, .third p{
     text-align: left;
@@ -234,6 +236,9 @@ li:hover{
   .fourth p{
     width: 34rem;
     margin-inline: auto;
+  }
+  .devices{
+    margin-top: 4rem;
   }
 
   .fifth{
