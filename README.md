@@ -6,7 +6,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 - [Scrrenshot](#screenshot)
 - [Links](#links)
-- [Built With](#built-with)
+- [Built with](#built-with)
 - [Continued Development](#continued-development)
 
 ### Screenshot
@@ -18,7 +18,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - [Live Site URL](https://debabratabanik.github.io/clipboard-landing-page-master/)
 - [Challenge Solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-master-SesXS8NCnp)
 
-### Built With
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
