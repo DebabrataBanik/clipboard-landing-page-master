@@ -16,7 +16,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - [Live Site URL](https://debabratabanik.github.io/clipboard-landing-page-master/)
-- [Challenge Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-master-SesXS8NCnp)
+- [Challenge Solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-master-SesXS8NCnp)
 
 ### Build With
 
